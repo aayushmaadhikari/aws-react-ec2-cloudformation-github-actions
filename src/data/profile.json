@@ -1,28 +1,16 @@
 {
-  "name": "randomname",
-  "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
-  "roll": "4447",
-  "department": "Computer Engineering",
-  "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
+  "name": "aayushma",
+  "tagline": "creator",
+  "photo": "picture.png",
+  "roll": "2",
+  "email": "aayushmaadhikari5@gmail.com",
   "gpa": "4.00",
-  "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
-  "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
+  "about": " i create what i like ",
+  "skills": ["can learn anything"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/aayushmaadhikari"
   },
   "quotes": [
-    "Stay hungry, stay foolish.",
-    "Success doesn't come to you, you go to it.",
-    "Small progress every day leads to big results.",
-    "Don't watch the clock; do what it does. Keep going.",
-    "Your only limit is your mind.",
-    "Push yourself because no one else is going to do it for you.",
-    "Dream it. Build it. Achieve it.",
-    "Hard work beats talent when talent doesn't work hard.",
-    "Failure is not the opposite of success; it is part of success.",
-    "Code your future one line at a time."
+    "Just Be."
   ]
 }
